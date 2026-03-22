@@ -143,4 +143,4 @@ This project demonstrates how modern NLP techniques can be applied to Arabic tex
 
 ## 👨‍💻 Author
 
-Student Project - NLP Course
+Doaa_Ali / - NLP Course
